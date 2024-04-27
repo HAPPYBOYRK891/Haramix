@@ -1,6 +1,6 @@
 {
     "name": "『 𝗛𝝙𝗥𝝙𝗠𝗜❌𝗦𝗣𝝙𝗠 ➽ 𝗫❗ 🫧』",
-    "logo": "https://telegra.ph/file/eccb591279be2d1396223.jpg",
+    "logo": "https://telegra.ph/file/d65da6a8fe1d4e13d102e.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/Harami005/Haramix",
+    "repository": "https://github.com/HAPPYBOYRK891/Haramix",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
